@@ -15,6 +15,10 @@ public class Tickets {
         this.value = value;
     }
 
+    public Tickets() {
+
+    }
+
     public int getTicketNumber() {
         return ticketNumber;
     }

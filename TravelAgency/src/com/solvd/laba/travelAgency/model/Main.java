@@ -13,6 +13,5 @@ public class Main {
         menu.menuOptions();
         menu.selectionMessage();
         menu.menu();
-
     }
 }
