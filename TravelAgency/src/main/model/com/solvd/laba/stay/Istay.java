@@ -1,6 +1,7 @@
-package com.solvd.laba.travelAgency.model.stay;
+package main.model.com.solvd.laba.stay;
 
 public interface Istay {
     void hasVacancy();
+
     void fullOcupation();
 }

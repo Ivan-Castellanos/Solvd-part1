@@ -1,11 +1,19 @@
-package com.solvd.laba.travelAgency.model;
+package main.model.com.solvd.laba;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
 public class Tickets {
-    private int ticketNumber;
+    private static int passangerQuantity;
+    private int ticketNumber = 0;
     private String passengerName;
     private int seatNumber;
     private String ticketClass;
     private int value;
+    List<Tickets> ticketlist = new ArrayList<Tickets>();
+
+    Scanner sc = new Scanner(System.in);
 
     public Tickets(int ticketNumber, String passengerName, int seatNumber, String ticketClass, int value) {
         this.ticketNumber = ticketNumber;
@@ -16,7 +24,20 @@ public class Tickets {
     }
 
     public Tickets() {
+    }
 
+//    public int passangerNumbers(){
+//        System.out.println("Passanger quantity? :");
+//        passangerQuantity = sc.nextInt();
+//
+//    }
+
+    public int getPassangerQuantity() {
+        return passangerQuantity;
+    }
+
+    public void setPassangerQuantity(int passangerQuantity) {
+        this.passangerQuantity = passangerQuantity;
     }
 
     public int getTicketNumber() {

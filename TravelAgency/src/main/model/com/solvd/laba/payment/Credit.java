@@ -1,6 +1,6 @@
-package com.solvd.laba.travelAgency.model.payment;
+package main.model.com.solvd.laba.payment;
 
-public class Debit implements Ipay{
+public class Credit implements Ipay {
 
     @Override
     public void pay() {

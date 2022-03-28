@@ -1,6 +1,6 @@
-package com.solvd.laba.travelAgency.model.stay;
+package main.model.com.solvd.laba.stay;
 
-public class Apartment implements Istay{
+public class Apartment implements Istay {
 
     @Override
     public void hasVacancy() {

@@ -1,4 +1,4 @@
-package com.solvd.laba.travelAgency.model.travel;
+package main.model.com.solvd.laba.travel;
 
 public abstract class Location {
     private String name;
