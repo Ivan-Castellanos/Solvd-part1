@@ -17,7 +17,7 @@ public class QuicksortAlgorithm {
         int pivot = arr[right];
         int i = (left - 1);
 
-        if (!inverse){
+        if (!inverse) {
             for (int j = left; j <= right - 1; j++) {
                 if (arr[j] < pivot) {
                     i++;
@@ -37,13 +37,13 @@ public class QuicksortAlgorithm {
     }
 
 
-    void quickSort(int[] arr, int left, int right,boolean inverse) {
+    void quickSort(int[] arr, int left, int right, boolean inverse) {
         if (left < right) {
 
-            int pi = pivoter(arr, left, right,inverse);
+            int pi = pivoter(arr, left, right, inverse);
 
-            quickSort(arr, left, pi - 1,inverse);
-            quickSort(arr, pi + 1, right,inverse);
+            quickSort(arr, left, pi - 1, inverse);
+            quickSort(arr, pi + 1, right, inverse);
         }
     }
 
