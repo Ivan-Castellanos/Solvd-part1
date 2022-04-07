@@ -2,8 +2,8 @@ package com.solvd.laba.travel;
 
 public class Plane extends Vehicle {
 
-    public Plane(int fuel, int passengerCapacity, int topSpeed, String engineState, String model, String serialNumber) {
-        super(fuel, passengerCapacity, topSpeed, engineState, model, serialNumber);
+    public Plane(int passengerCapacity, int topSpeed, String model, String serialNumber) {
+        super(passengerCapacity, topSpeed, model, serialNumber);
     }
 
     private static void takeOff() {
@@ -16,7 +16,7 @@ public class Plane extends Vehicle {
 
     public void travel() {
         takeOff();
-        consumeFuel();
+        rechargeFuel();
         landing();
     }
 

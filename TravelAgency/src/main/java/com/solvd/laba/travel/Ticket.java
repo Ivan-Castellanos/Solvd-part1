@@ -2,7 +2,7 @@ package com.solvd.laba.travel;
 
 import java.util.Scanner;
 
-public class Tickets {
+public class Ticket {
     private static int passangerQuantity;
     Scanner sc = new Scanner(System.in);
     private int ticketNumber = 0;
@@ -11,7 +11,7 @@ public class Tickets {
     private String ticketClass;
     private int value;
 
-    public Tickets(int ticketNumber, String passengerName, int seatNumber, String ticketClass, int value) {
+    public Ticket(int ticketNumber, String passengerName, int seatNumber, String ticketClass, int value) {
         this.ticketNumber = ticketNumber;
         this.passengerName = passengerName;
         this.seatNumber = seatNumber;
@@ -19,7 +19,7 @@ public class Tickets {
         this.value = value;
     }
 
-    public Tickets() {
+    public Ticket() {
     }
 
 //    public int passangerNumbers(){

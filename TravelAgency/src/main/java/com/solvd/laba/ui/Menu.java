@@ -1,7 +1,7 @@
 package com.solvd.laba.ui;
 
 
-import com.solvd.laba.travel.Tickets;
+import com.solvd.laba.travel.Ticket;
 import com.solvd.laba.travel.Travel;
 import org.apache.log4j.Logger;
 
@@ -13,7 +13,7 @@ public class Menu {
     private static String destination;
     private static String COUNTRIES[] = Travel.getCOUNTRIES();
     Travel travel = new Travel();
-    Tickets ticket = new Tickets();
+    Ticket ticket = new Ticket();
     /*Airport ezeizaAirport = new Airport("Ezeiza", "EZE");
     Airport minskAirport = new Airport("Minsk International Airport", "MSQ");
     Airport miamiAirport = new Airport("Miami International Airport", "MIA");*/

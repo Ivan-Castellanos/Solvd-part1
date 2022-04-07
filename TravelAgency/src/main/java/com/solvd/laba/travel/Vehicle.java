@@ -1,18 +1,19 @@
 package com.solvd.laba.travel;
 
+import java.util.Random;
+
 public abstract class Vehicle {
+    Random random = new Random();
     private int fuel;
     private int passengerCapacity;
     private int topSpeed;
-    private String engineState;
     private String model;
     private String serialNumber;
 
-    public Vehicle(int fuel, int passengerCapacity, int topSpeed, String engineState, String model, String serialNumber) {
-        this.fuel = fuel;
+    public Vehicle(int passengerCapacity, int topSpeed, String model, String serialNumber) {
+        this.fuel = 0;
         this.passengerCapacity = passengerCapacity;
         this.topSpeed = topSpeed;
-        this.engineState = engineState;
         this.model = model;
         this.serialNumber = serialNumber;
     }
@@ -41,14 +42,6 @@ public abstract class Vehicle {
         this.topSpeed = topSpeed;
     }
 
-    public String getEngineState() {
-        return engineState;
-    }
-
-    public void setEngineState(String engineState) {
-        this.engineState = engineState;
-    }
-
     public String getModel() {
         return model;
     }
@@ -65,17 +58,8 @@ public abstract class Vehicle {
         this.serialNumber = serialNumber;
     }
 
-    public void turnEngine(String engineState) {
-        System.out.print("The engine get turned " + engineState + ". \n");
-        this.engineState = engineState;
-    }
-
     public void rechargeFuel() {
-        this.setFuel(100);
+        this.setFuel(random.nextInt(100));
     }
 
-    void consumeFuel() {
-        int fuel = this.getFuel();
-        this.setFuel(fuel - 40);
-    }
 }
