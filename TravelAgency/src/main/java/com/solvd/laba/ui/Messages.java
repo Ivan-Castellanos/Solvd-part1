@@ -1,12 +1,13 @@
 package com.solvd.laba.ui;
 
 import com.solvd.laba.travel.Travel;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.Scanner;
 
 public class Messages {
-    private final static Logger LOGGER = Logger.getLogger(Messages.class);
+    private final static Logger LOGGER = LogManager.getLogger(Messages.class);
     static Scanner sc = new Scanner(System.in);
 
     public static void welcomeScreen() {
@@ -31,7 +32,7 @@ public class Messages {
 
     public static void classMessage() {
         LOGGER.info("""
-                Now, please select the flight class that you want for this Trip: 
+                Now, please select the flight class that you want for this Trip:
                 1) Economy (regular price)
                 2) Business (+$2000)
                 """);

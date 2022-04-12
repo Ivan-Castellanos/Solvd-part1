@@ -19,5 +19,4 @@ public class Plane extends Vehicle {
         rechargeFuel();
         landing();
     }
-
 }

@@ -3,12 +3,13 @@ package com.solvd.laba.ui;
 
 import com.solvd.laba.travel.Ticket;
 import com.solvd.laba.travel.Travel;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.util.Scanner;
 
 public class Menu {
-    private final static Logger LOGGER = Logger.getLogger(Menu.class);
+    private final static Logger LOGGER = LogManager.getLogger(Menu.class);
     static Scanner sc = new Scanner(System.in);
     private static String destination;
     private static String COUNTRIES[] = Travel.getCOUNTRIES();
@@ -97,7 +98,7 @@ public class Menu {
         }
 //        int dateSelected = Messages.nextFLightsMessage(travelInfo[1]);
 //        travel.setPrice(travel.pricing(travelInfo[0], travelInfo[1]) + fligthClass());
-//        logger.info(ticket.passangerNumbers());
+//        LOGGER.info(ticket.passangerNumbers());
     }
 
 //    public void entryPassengersDataMenu() {

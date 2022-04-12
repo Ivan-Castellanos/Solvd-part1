@@ -1,4 +1,4 @@
-package com.solvd.laba.exceptions;
+package com.solvd.laba.exception;
 
 public class Exception3 extends Exception {
     public Exception3(String message) {
