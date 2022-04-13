@@ -38,3 +38,281 @@
 2022-04-11 10:50:42,894 [main] INFO  com.solvd.laba.collection.CustomLinkedList - 1733 
 2022-04-11 10:50:42,894 [main] INFO  com.solvd.laba.collection.CustomLinkedList - 1564 
 2022-04-11 10:50:42,894 [main] INFO  com.solvd.laba.collection.CustomLinkedList - 8953 
+2022-04-13 03:33:09,824 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 03:33:09,830 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 03:33:09,857 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 03:33:09 ART 2022
+2022-04-13 03:33:09,857 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 03:33:09,859 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 03:33:09,860 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Create a User.
+2022-04-13 03:33:09,860 [main] INFO  com.solvd.laba.ui.AbstractMenu - 2- Exit.
+2022-04-13 03:33:09,860 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-13 03:33:09,860 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 03:33:52,852 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 03:33:52,854 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 03:33:52,859 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 03:33:52 ART 2022
+2022-04-13 03:33:52,859 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 03:33:52,865 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 03:33:52,865 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Create a User.
+2022-04-13 03:33:52,865 [main] INFO  com.solvd.laba.ui.AbstractMenu - 2- Exit.
+2022-04-13 03:33:52,865 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-13 03:33:52,866 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 03:33:55,155 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 03:33:55,157 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 03:33:55,162 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 03:33:55 ART 2022
+2022-04-13 03:33:55,162 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 03:33:55,164 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 03:33:55,164 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Create a User.
+2022-04-13 03:33:55,164 [main] INFO  com.solvd.laba.ui.AbstractMenu - 2- Exit.
+2022-04-13 03:33:55,164 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-13 03:33:55,164 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 03:33:57,145 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 03:33:57,147 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 03:33:57,152 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 03:33:57 ART 2022
+2022-04-13 03:33:57,152 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 03:33:57,158 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 03:33:57,159 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Create a User.
+2022-04-13 03:33:57,159 [main] INFO  com.solvd.laba.ui.AbstractMenu - 2- Exit.
+2022-04-13 03:33:57,159 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-13 03:33:57,160 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 03:34:00,414 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 03:34:00,416 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 03:34:00,424 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 03:34:00 ART 2022
+2022-04-13 03:34:00,424 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 03:34:00,427 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 03:34:00,427 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Create a User.
+2022-04-13 03:34:00,427 [main] INFO  com.solvd.laba.ui.AbstractMenu - 2- Exit.
+2022-04-13 03:34:00,427 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-13 03:34:00,428 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 03:34:02,479 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 03:34:02,481 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 03:34:02,486 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 03:34:02 ART 2022
+2022-04-13 03:34:02,486 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 03:34:02,488 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 03:34:02,488 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Create a User.
+2022-04-13 03:34:02,488 [main] INFO  com.solvd.laba.ui.AbstractMenu - 2- Exit.
+2022-04-13 03:34:02,488 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-13 03:34:02,489 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 03:34:04,340 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 03:34:04,342 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 03:34:04,351 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 03:34:04 ART 2022
+2022-04-13 03:34:04,351 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 03:34:04,353 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 03:34:04,353 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Create a User.
+2022-04-13 03:34:04,354 [main] INFO  com.solvd.laba.ui.AbstractMenu - 2- Exit.
+2022-04-13 03:34:04,354 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-13 03:34:04,354 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 03:34:06,171 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 03:34:06,173 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 03:34:06,177 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 03:34:06 ART 2022
+2022-04-13 03:34:06,178 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 03:34:06,180 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 03:34:06,180 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Create a User.
+2022-04-13 03:34:06,180 [main] INFO  com.solvd.laba.ui.AbstractMenu - 2- Exit.
+2022-04-13 03:34:06,180 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-13 03:34:06,180 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 03:34:08,008 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 03:34:08,011 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 03:34:08,020 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 03:34:08 ART 2022
+2022-04-13 03:34:08,021 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 03:34:08,023 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 03:34:08,023 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Create a User.
+2022-04-13 03:34:08,023 [main] INFO  com.solvd.laba.ui.AbstractMenu - 2- Exit.
+2022-04-13 03:34:08,024 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-13 03:34:08,024 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 03:34:21,064 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 03:34:21,067 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 03:34:21,075 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 03:34:21 ART 2022
+2022-04-13 03:34:21,075 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 03:34:21,078 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 03:34:21,078 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Create a User.
+2022-04-13 03:34:21,078 [main] INFO  com.solvd.laba.ui.AbstractMenu - 2- Exit.
+2022-04-13 03:34:21,082 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-13 03:34:21,082 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 03:34:23,929 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 03:34:23,931 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 03:34:23,936 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 03:34:23 ART 2022
+2022-04-13 03:34:23,936 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 03:34:23,943 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 03:34:23,943 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Create a User.
+2022-04-13 03:34:23,943 [main] INFO  com.solvd.laba.ui.AbstractMenu - 2- Exit.
+2022-04-13 03:34:23,944 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-13 03:34:23,944 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 03:40:03,876 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 03:40:03,878 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 03:40:03,883 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 03:40:03 ART 2022
+2022-04-13 03:40:03,884 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 03:40:03,889 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 03:40:03,890 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Create a User.
+2022-04-13 03:40:03,890 [main] INFO  com.solvd.laba.ui.AbstractMenu - 2- Exit.
+2022-04-13 03:40:03,894 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-13 03:40:03,894 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 04:01:45,735 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 04:01:45,738 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 04:01:45,747 [main] INFO  com.solvd.laba.ui.AbstractMenu - Clock: Wed Apr 13 04:01:45 ART 2022
+2022-04-13 04:01:45,747 [main] INFO  com.solvd.laba.ui.AbstractMenu - Giving all elements options
+2022-04-13 04:01:45,749 [main] INFO  com.solvd.laba.ui.AbstractMenu - 0- Login.
+2022-04-13 04:01:45,749 [main] INFO  com.solvd.laba.ui.AbstractMenu - 1- Exit.
+2022-04-13 04:01:45,750 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-13 04:01:45,750 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 04:55:15,322 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 04:55:15,325 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 04:55:15,330 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 04:55:15 ART 2022
+2022-04-13 04:55:15,331 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 04:55:15,333 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Login.
+2022-04-13 04:55:15,333 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- Exit.
+2022-04-13 04:55:15,334 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-13 04:55:15,334 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 04:55:20,186 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 04:55:20,189 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 04:55:20,198 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 04:55:20 ART 2022
+2022-04-13 04:55:20,198 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 04:55:20,200 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Login.
+2022-04-13 04:55:20,200 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- Exit.
+2022-04-13 04:55:20,201 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-13 04:55:20,201 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 04:55:22,151 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 04:55:22,153 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 04:55:22,158 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 04:55:22 ART 2022
+2022-04-13 04:55:22,158 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 04:55:22,160 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Login.
+2022-04-13 04:55:22,160 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- Exit.
+2022-04-13 04:55:22,161 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-13 04:55:22,161 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 04:55:23,962 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 04:55:23,965 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 04:55:23,970 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 04:55:23 ART 2022
+2022-04-13 04:55:23,970 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 04:55:23,971 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Login.
+2022-04-13 04:55:23,971 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- Exit.
+2022-04-13 04:55:23,972 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-13 04:55:23,972 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 04:55:25,722 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 04:55:25,724 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 04:55:25,729 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 04:55:25 ART 2022
+2022-04-13 04:55:25,730 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 04:55:25,732 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Login.
+2022-04-13 04:55:25,732 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- Exit.
+2022-04-13 04:55:25,732 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-13 04:55:25,733 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 04:55:25,733 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - Printing User Menu
+2022-04-13 04:55:25,738 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 04:55:25,738 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 04:55:25 ART 2022
+2022-04-13 04:55:25,738 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 04:55:25,738 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Argentina.
+2022-04-13 04:55:25,738 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- USA.
+2022-04-13 04:55:25,738 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 2- Belarus.
+2022-04-13 04:55:25,738 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-13 04:55:25,738 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 04:55:25,750 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - Printing User Menu
+2022-04-13 04:55:25,751 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - Clock: Wed Apr 13 04:55:25 ART 2022
+2022-04-13 04:55:25,751 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - Giving all elements options
+2022-04-13 04:55:25,751 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - 0- Argentina.
+2022-04-13 04:55:25,751 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - 1- Belarus.
+2022-04-13 04:58:40,847 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 04:58:40,849 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 04:58:40,854 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 04:58:40 ART 2022
+2022-04-13 04:58:40,854 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 04:58:40,856 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Login.
+2022-04-13 04:58:40,856 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- Exit.
+2022-04-13 04:58:40,857 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-13 04:58:40,857 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 04:58:43,309 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 04:58:43,311 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 04:58:43,320 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 04:58:43 ART 2022
+2022-04-13 04:58:43,321 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 04:58:43,323 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Login.
+2022-04-13 04:58:43,323 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- Exit.
+2022-04-13 04:58:43,324 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-13 04:58:43,324 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 04:58:43,325 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - Printing User Menu
+2022-04-13 04:58:43,325 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 04:58:43,326 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 04:58:43 ART 2022
+2022-04-13 04:58:43,326 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 04:58:43,326 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Argentina.
+2022-04-13 04:58:43,326 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- USA.
+2022-04-13 04:58:43,326 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 2- Belarus.
+2022-04-13 04:58:43,326 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-13 04:58:43,326 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 04:58:43,332 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - Printing User Menu
+2022-04-13 04:58:43,333 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - Clock: Wed Apr 13 04:58:43 ART 2022
+2022-04-13 04:58:43,333 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - Giving all elements options
+2022-04-13 04:58:43,333 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - 0- Argentina.
+2022-04-13 04:58:43,333 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - 1- USA.
+2022-04-13 05:32:57,388 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 05:32:57,390 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 05:32:57,400 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 05:32:57 ART 2022
+2022-04-13 05:32:57,400 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 05:32:57,402 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Login.
+2022-04-13 05:32:57,403 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- Exit.
+2022-04-13 05:32:57,403 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-13 05:32:57,403 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 05:32:57,407 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - Printing User Menu
+2022-04-13 05:32:57,408 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 05:32:57,408 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 05:32:57 ART 2022
+2022-04-13 05:32:57,408 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 05:32:57,408 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Argentina.
+2022-04-13 05:32:57,408 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- USA.
+2022-04-13 05:32:57,408 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 2- Belarus.
+2022-04-13 05:32:57,409 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-13 05:32:57,409 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 05:32:57,413 [main] INFO  com.solvd.laba.ui.destinationMenu.DestinationMenu - Printing User Menu
+2022-04-13 05:32:57,414 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Clock: Wed Apr 13 05:32:57 ART 2022
+2022-04-13 05:32:57,414 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Giving all elements options
+2022-04-13 05:32:57,414 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - 0- Argentina.
+2022-04-13 05:32:57,414 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - 1- Belarus.
+2022-04-13 05:38:59,364 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 05:38:59,366 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 05:38:59,370 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 05:38:59 ART 2022
+2022-04-13 05:38:59,371 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 05:38:59,373 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Login.
+2022-04-13 05:38:59,373 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- Exit.
+2022-04-13 05:38:59,373 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-13 05:38:59,373 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 05:38:59,374 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - Printing User Menu
+2022-04-13 05:38:59,374 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 05:38:59,374 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 05:38:59 ART 2022
+2022-04-13 05:38:59,374 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 05:38:59,375 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Argentina.
+2022-04-13 05:38:59,375 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- USA.
+2022-04-13 05:38:59,375 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 2- Belarus.
+2022-04-13 05:38:59,375 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-13 05:38:59,375 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 05:38:59,380 [main] INFO  com.solvd.laba.ui.destinationMenu.DestinationMenu - Printing User Menu
+2022-04-13 05:38:59,380 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Clock: Wed Apr 13 05:38:59 ART 2022
+2022-04-13 05:38:59,380 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Giving all elements options
+2022-04-13 05:38:59,381 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - 0- Argentina.
+2022-04-13 05:38:59,381 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - 1- USA.
+2022-04-13 05:38:59,381 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Choosing Menu ui options
+2022-04-13 05:38:59,381 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Clock: Wed Apr 13 05:38:59 ART 2022
+2022-04-13 05:38:59,381 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Giving all elements options
+2022-04-13 05:38:59,381 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - 0- Argentina.
+2022-04-13 05:38:59,381 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - 1- USA.
+2022-04-13 05:38:59,381 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Chosen option: 0
+2022-04-13 05:38:59,381 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Option selected in changeOption: 
+2022-04-13 05:38:59,382 [main] INFO  com.solvd.laba.ui.destinationMenu.DestinationMenu - We travel from Belarus to Argentina
+2022-04-13 05:39:25,873 [main] INFO  com.solvd.laba.ui.userMenu.UserMenu - Printing User Menu
+2022-04-13 05:39:25,875 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 05:39:25,880 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 05:39:25 ART 2022
+2022-04-13 05:39:25,880 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 05:39:25,887 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Login.
+2022-04-13 05:39:25,887 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- Exit.
+2022-04-13 05:39:25,888 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-13 05:39:25,888 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 05:39:25,888 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - Printing User Menu
+2022-04-13 05:39:25,889 [main] INFO  com.solvd.laba.ui.AbstractMenu - Choosing Menu ui options
+2022-04-13 05:39:25,889 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Clock: Wed Apr 13 05:39:25 ART 2022
+2022-04-13 05:39:25,889 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - Giving all elements options
+2022-04-13 05:39:25,889 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 0- Argentina.
+2022-04-13 05:39:25,889 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 1- USA.
+2022-04-13 05:39:25,889 [main] INFO  com.solvd.laba.ui.userMenu.AbtractMenuEnum - 2- Belarus.
+2022-04-13 05:39:25,889 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-13 05:39:25,889 [main] INFO  com.solvd.laba.ui.AbstractMenu - Option selected in changeOption: 
+2022-04-13 05:39:25,895 [main] INFO  com.solvd.laba.ui.destinationMenu.DestinationMenu - Printing User Menu
+2022-04-13 05:39:25,895 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Choosing Menu ui options
+2022-04-13 05:39:25,896 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Clock: Wed Apr 13 05:39:25 ART 2022
+2022-04-13 05:39:25,896 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Giving all elements options
+2022-04-13 05:39:25,896 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - 0- Argentina.
+2022-04-13 05:39:25,896 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - 1- USA.
+2022-04-13 05:39:25,897 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Chosen option: 1
+2022-04-13 05:39:25,897 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Option selected in changeOption: 
+2022-04-13 05:39:25,897 [main] INFO  com.solvd.laba.ui.destinationMenu.DestinationMenu - We travel from Belarus to USA
