@@ -2,7 +2,6 @@ package com.solvd.laba.ui.loginMenu;
 
 public enum LoginMenuEnum {
     LOGIN("Login"),
-    //CREATE_USER("Create a User"),
     EXIT("Exit");
 
     private final String value;

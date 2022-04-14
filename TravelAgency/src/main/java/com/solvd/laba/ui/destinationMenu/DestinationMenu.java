@@ -2,7 +2,7 @@ package com.solvd.laba.ui.destinationMenu;
 
 import com.solvd.laba.lambda.IShowDate;
 import com.solvd.laba.travel.Travel;
-import com.solvd.laba.ui.countrieslMenu.CountriesMenuEnum;
+import com.solvd.laba.ui.countriesMenu.CountriesMenuEnum;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -31,7 +31,7 @@ public class DestinationMenu extends AbstractDestinationMenu<CountriesMenuEnum, 
     }
 
     public CountriesMenuEnum initDestinationMenu(CountriesMenuEnum startingCountry) {
-        LOGGER.info("Printing User Menu");
+        LOGGER.info("Printing Destination Menu");
         List<CountriesMenuEnum> remainings = remainingEnums(startingCountry);
         CountriesMenuEnum destination = changeOption(remainings);
         return destination;

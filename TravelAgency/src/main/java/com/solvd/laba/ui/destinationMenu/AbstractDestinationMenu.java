@@ -2,8 +2,8 @@ package com.solvd.laba.ui.destinationMenu;
 
 import com.solvd.laba.lambda.IShowDate;
 import com.solvd.laba.ui.AbstractMenu;
-import com.solvd.laba.ui.RandomGenerator;
-import com.solvd.laba.ui.countrieslMenu.CountriesMenuEnum;
+import com.solvd.laba.data.RandomGenerator;
+import com.solvd.laba.ui.countriesMenu.CountriesMenuEnum;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -49,7 +49,7 @@ public abstract class AbstractDestinationMenu<T extends Enum<T>, L extends List<
 
         LOGGER.info("Chosen option: " + Integer.parseInt(chosenOption));
 
-        String pattern = "[0-9]+";
+        String pattern = "[0-5]";
         if (!regex.validateInput(pattern, chosenOption)) {
             LOGGER.warn("No natural number entered in Menu options");
             return manageOptions(options);

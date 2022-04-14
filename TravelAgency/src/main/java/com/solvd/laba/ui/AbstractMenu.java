@@ -1,5 +1,6 @@
 package com.solvd.laba.ui;
 
+import com.solvd.laba.data.RandomGenerator;
 import com.solvd.laba.lambda.IRegexCompare;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -21,7 +22,7 @@ public abstract class AbstractMenu<T extends Enum<T>> implements IUi<T> {
     public abstract void printAllElements(Class<T> options);
 
     @Override
-    public T  changeOption(Class<T> options) {
+    public T changeOption(Class<T> options) {
         T newTag = manageOptions(options);
         return newTag;
     }
@@ -31,13 +32,14 @@ public abstract class AbstractMenu<T extends Enum<T>> implements IUi<T> {
 
         printAllElements(options);
 
+        //Unused temporary in order to select personally the execution process.
         RandomGenerator<T> randomGenerator = new RandomGenerator<>();
         Scanner sc = new Scanner(System.in);
-        String chosenOption = String.valueOf(sc.nextInt());
+        String chosenOption = String.valueOf(sc.nextInt()); //change here with randomGenerator.randomRandIntEnum(options) to randomize execution.
 
         LOGGER.info("Chosen option: " + Integer.parseInt(chosenOption));
 
-        String pattern = "[0-5]";
+        String pattern = "[0-4]";
         if (!regex.validateInput(pattern, chosenOption)) {
             LOGGER.warn("No natural number entered in Menu options");
             return manageOptions(options);

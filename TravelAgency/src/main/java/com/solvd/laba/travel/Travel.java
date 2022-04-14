@@ -1,13 +1,13 @@
 package com.solvd.laba.travel;
 
-import com.solvd.laba.ui.countrieslMenu.CountriesMenuEnum;
+import com.solvd.laba.ui.countriesMenu.CountriesMenuEnum;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class Travel implements ITravel {
     private final static Logger LOGGER = LogManager.getLogger(Travel.class);
     private static final float PRICE = 0.25f;
-    private static final int AVERAGEVELOCITY = 900;
+    private static final int AVERAGE_VELOCITY = 900;
     private CountriesMenuEnum from;
     private CountriesMenuEnum destination;
     private int travelTime;
@@ -84,7 +84,7 @@ public class Travel implements ITravel {
 
     @Override
     public void calculateTime(int distance) {
-        travelTime = distance / AVERAGEVELOCITY;
+        travelTime = distance / AVERAGE_VELOCITY;
         LOGGER.info("The travel time is: " + travelTime + " hs.");
     }
 

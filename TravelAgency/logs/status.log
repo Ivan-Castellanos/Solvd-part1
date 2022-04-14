@@ -26059,3 +26059,227 @@ You will depart from Argentina to Belarus,the travel time will be of: 14hs. The 
 2022-04-14 05:23:16,425 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Login.
 2022-04-14 05:23:16,425 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Exit.
 2022-04-14 05:23:17,517 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 3
+2022-04-14 05:31:44,494 [main] INFO  com.solvd.laba.Main - Starting execution.
+2022-04-14 05:31:44,501 [main] INFO  com.solvd.laba.ui.Messages - 
+  ______           _                 
+ /_  __/_  _______(_)___  ___  __  __
+  / / / / / / ___/ / __ \/ _ \/ / / /
+ / / / /_/ / /  / / /_/ /  __/ /_/ / 
+/_/  \__,_/_/  /_/ .___/\___/\__,_/  
+                /_/                  
+
+2022-04-14 05:31:44,503 [main] INFO  com.solvd.laba.ui.loginMenu.LoginMenu - Printing Login Menu
+2022-04-14 05:31:44,508 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:31:44 ART 2022
+2022-04-14 05:31:44,508 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:31:44,511 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Login.
+2022-04-14 05:31:44,511 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Exit.
+2022-04-14 05:31:47,762 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-14 05:31:47,767 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 05:31:47,767 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:31:44 ART 2022
+2022-04-14 05:31:47,767 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:31:47,767 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Check flights..
+2022-04-14 05:31:47,767 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Purchase flight..
+2022-04-14 05:31:47,767 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- Exit.
+2022-04-14 05:31:49,552 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-14 05:31:49,554 [main] INFO  com.solvd.laba.Main - Ending execution.
+2022-04-14 05:57:12,535 [main] INFO  com.solvd.laba.Main - Starting execution.
+2022-04-14 05:57:12,540 [main] INFO  com.solvd.laba.ui.Messages - 
+  ______           _                 
+ /_  __/_  _______(_)___  ___  __  __
+  / / / / / / ___/ / __ \/ _ \/ / / /
+ / / / /_/ / /  / / /_/ /  __/ /_/ / 
+/_/  \__,_/_/  /_/ .___/\___/\__,_/  
+                /_/                  
+
+2022-04-14 05:57:12,550 [main] INFO  com.solvd.laba.ui.loginMenu.LoginMenu - Printing Login Menu
+2022-04-14 05:57:12,562 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:57:12,562 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:57:12,565 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Login.
+2022-04-14 05:57:12,565 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Exit.
+2022-04-14 05:57:14,461 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-14 05:57:14,464 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 05:57:14,464 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:57:14,464 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:57:14,464 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Check flights..
+2022-04-14 05:57:14,464 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Purchase flight..
+2022-04-14 05:57:14,464 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- Exit.
+2022-04-14 05:57:17,617 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-14 05:57:17,623 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 05:57:17,624 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:57:17,624 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:57:17,624 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Show selected travel..
+2022-04-14 05:57:17,624 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Proceed to payment..
+2022-04-14 05:57:17,624 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- GO back to Main Menu..
+2022-04-14 05:57:17,624 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 3- Exit.
+2022-04-14 05:57:19,757 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-14 05:57:19,765 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing Payment Menu
+2022-04-14 05:57:19,769 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:57:19,769 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:57:19,769 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Pay with Debit card..
+2022-04-14 05:57:19,769 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Pay with Credit card..
+2022-04-14 05:57:19,769 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- GO back to Purchase Menu.
+2022-04-14 05:57:19,769 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 3- Exit.
+2022-04-14 05:57:22,126 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-14 05:57:22,130 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 05:57:22,130 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:57:22,130 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:57:22,131 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Show selected travel..
+2022-04-14 05:57:22,131 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Proceed to payment..
+2022-04-14 05:57:22,131 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- GO back to Main Menu..
+2022-04-14 05:57:22,131 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 3- Exit.
+2022-04-14 05:57:23,629 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-14 05:57:23,629 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 05:57:23,629 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:57:23,629 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:57:23,629 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Check flights..
+2022-04-14 05:57:23,630 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Purchase flight..
+2022-04-14 05:57:23,630 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- Exit.
+2022-04-14 05:57:25,314 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-14 05:57:25,315 [main] INFO  com.solvd.laba.ui.countrieslMenu.CountriesMenu - Printing Countries Menu
+2022-04-14 05:57:25,315 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:57:25,315 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:57:25,315 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Argentina.
+2022-04-14 05:57:25,315 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- USA.
+2022-04-14 05:57:25,315 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- Belarus.
+2022-04-14 05:57:27,008 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-14 05:57:27,018 [main] INFO  com.solvd.laba.ui.destinationMenu.DestinationMenu - Printing Destination Menu
+2022-04-14 05:57:27,018 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Choosing Menu ui options
+2022-04-14 05:57:27,019 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:57:27,019 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Giving all elements options
+2022-04-14 05:57:27,019 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - 0- USA.
+2022-04-14 05:57:27,019 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - 1- Belarus.
+2022-04-14 05:57:27,019 [main] INFO  com.solvd.laba.ui.destinationMenu.AbstractDestinationMenu - Chosen option: 1
+2022-04-14 05:57:27,021 [main] INFO  com.solvd.laba.travel.Travel - The distance is: 12822 km.
+2022-04-14 05:57:27,022 [main] INFO  com.solvd.laba.travel.Travel - The price is: $3205.50.
+2022-04-14 05:57:27,022 [main] INFO  com.solvd.laba.travel.Travel - The travel time is: 14 hs.
+2022-04-14 05:57:27,022 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 05:57:27,022 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:57:27,023 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:57:27,023 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Check flights..
+2022-04-14 05:57:27,023 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Purchase flight..
+2022-04-14 05:57:27,023 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- Exit.
+2022-04-14 05:57:40,325 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-14 05:57:40,325 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 05:57:40,326 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:57:40,326 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:57:40,326 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Show selected travel..
+2022-04-14 05:57:40,326 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Proceed to payment..
+2022-04-14 05:57:40,326 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- GO back to Main Menu..
+2022-04-14 05:57:40,326 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 3- Exit.
+2022-04-14 05:57:42,042 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-14 05:57:42,050 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Name: Ivan Castellanos , age: 22, email: ivancastellanos@gmal.imn'
+You will depart from Argentina to Belarus,the travel time will be of: 14hs. The distance will be of: 12822km and you have to pay: $3205.5.
+2022-04-14 05:57:42,050 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 05:57:42,050 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:57:42,050 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:57:42,051 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Show selected travel..
+2022-04-14 05:57:42,051 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Proceed to payment..
+2022-04-14 05:57:42,051 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- GO back to Main Menu..
+2022-04-14 05:57:42,051 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 3- Exit.
+2022-04-14 05:57:59,190 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-14 05:57:59,190 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing Payment Menu
+2022-04-14 05:57:59,190 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:57:59,190 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:57:59,190 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Pay with Debit card..
+2022-04-14 05:57:59,190 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Pay with Credit card..
+2022-04-14 05:57:59,190 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- GO back to Purchase Menu.
+2022-04-14 05:57:59,190 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 3- Exit.
+2022-04-14 05:58:03,608 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-14 05:58:03,608 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 05:58:03,608 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:58:03,608 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:58:03,608 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Show selected travel..
+2022-04-14 05:58:03,608 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Proceed to payment..
+2022-04-14 05:58:03,609 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- GO back to Main Menu..
+2022-04-14 05:58:03,609 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 3- Exit.
+2022-04-14 05:58:05,192 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 2
+2022-04-14 05:58:05,192 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 05:58:05,192 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:58:05,193 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:58:05,193 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Check flights..
+2022-04-14 05:58:05,193 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Purchase flight..
+2022-04-14 05:58:05,193 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- Exit.
+2022-04-14 05:58:10,622 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-14 05:58:10,622 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 05:58:10,622 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:58:10,622 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:58:10,622 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Show selected travel..
+2022-04-14 05:58:10,622 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Proceed to payment..
+2022-04-14 05:58:10,622 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- GO back to Main Menu..
+2022-04-14 05:58:10,622 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 3- Exit.
+2022-04-14 05:58:12,572 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-14 05:58:12,572 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Name: Ivan Castellanos , age: 22, email: ivancastellanos@gmal.imn'
+You will depart from Argentina to Belarus,the travel time will be of: 14hs. The distance will be of: 12822km and you have to pay: $3205.5.
+2022-04-14 05:58:12,572 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 05:58:12,572 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:58:12,572 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:58:12,572 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Show selected travel..
+2022-04-14 05:58:12,572 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Proceed to payment..
+2022-04-14 05:58:12,573 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- GO back to Main Menu..
+2022-04-14 05:58:12,573 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 3- Exit.
+2022-04-14 05:58:18,630 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 1
+2022-04-14 05:58:18,630 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing Payment Menu
+2022-04-14 05:58:18,630 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 05:57:12 ART 2022
+2022-04-14 05:58:18,630 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 05:58:18,630 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Pay with Debit card..
+2022-04-14 05:58:18,630 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Pay with Credit card..
+2022-04-14 05:58:18,630 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- GO back to Purchase Menu.
+2022-04-14 05:58:18,630 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 3- Exit.
+2022-04-14 05:58:32,229 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-14 05:58:32,229 [main] INFO  com.solvd.laba.Main - Ending execution.
+2022-04-14 06:13:47,323 [main] INFO  com.solvd.laba.Main - Starting execution.
+2022-04-14 06:13:47,325 [main] INFO  com.solvd.laba.ui.Messages - 
+  ______           _                 
+ /_  __/_  _______(_)___  ___  __  __
+  / / / / / / ___/ / __ \/ _ \/ / / /
+ / / / /_/ / /  / / /_/ /  __/ /_/ / 
+/_/  \__,_/_/  /_/ .___/\___/\__,_/  
+                /_/                  
+
+2022-04-14 06:13:47,332 [main] INFO  com.solvd.laba.ui.loginMenu.LoginMenu - Printing Login Menu
+2022-04-14 06:13:47,341 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 06:13:47 ART 2022
+2022-04-14 06:13:47,341 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 06:13:47,343 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Login.
+2022-04-14 06:13:47,343 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Exit.
+2022-04-14 06:13:50,927 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 0
+2022-04-14 06:13:50,935 [main] INFO  com.solvd.laba.ui.mainMenu.MainMenu - Printing User Menu
+2022-04-14 06:13:50,936 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Clock: Thu Apr 14 06:13:47 ART 2022
+2022-04-14 06:13:50,936 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - Giving all elements options
+2022-04-14 06:13:50,936 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 0- Check flights..
+2022-04-14 06:13:50,936 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 1- Purchase flight..
+2022-04-14 06:13:50,936 [main] INFO  com.solvd.laba.ui.loginMenu.AbstractMenuEnum - 2- Exit.
+2022-04-14 06:19:15,407 [main] INFO  com.solvd.laba.Main - Starting execution.
+2022-04-14 06:19:15,411 [main] INFO  com.solvd.laba.ui.Messages - 
+  ______           _                 
+ /_  __/_  _______(_)___  ___  __  __
+  / / / / / / ___/ / __ \/ _ \/ / / /
+ / / / /_/ / /  / / /_/ /  __/ /_/ / 
+/_/  \__,_/_/  /_/ .___/\___/\__,_/  
+                /_/                  
+
+2022-04-14 06:19:15,418 [main] INFO  com.solvd.laba.ui.loginMenu.LoginMenu - Printing Login Menu
+2022-04-14 06:19:15,425 [main] INFO  com.solvd.laba.ui.AbstractMenuEnum - Clock: Thu Apr 14 06:19:15 ART 2022
+2022-04-14 06:19:15,425 [main] INFO  com.solvd.laba.ui.AbstractMenuEnum - Giving all elements options
+2022-04-14 06:19:15,428 [main] INFO  com.solvd.laba.ui.AbstractMenuEnum - 0- Login.
+2022-04-14 06:19:15,428 [main] INFO  com.solvd.laba.ui.AbstractMenuEnum - 1- Exit.
+2022-04-14 06:19:18,717 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 5
+2022-04-14 06:19:34,193 [main] INFO  com.solvd.laba.Main - Starting execution.
+2022-04-14 06:19:34,195 [main] INFO  com.solvd.laba.ui.Messages - 
+  ______           _                 
+ /_  __/_  _______(_)___  ___  __  __
+  / / / / / / ___/ / __ \/ _ \/ / / /
+ / / / /_/ / /  / / /_/ /  __/ /_/ / 
+/_/  \__,_/_/  /_/ .___/\___/\__,_/  
+                /_/                  
+
+2022-04-14 06:19:34,203 [main] INFO  com.solvd.laba.ui.loginMenu.LoginMenu - Printing Login Menu
+2022-04-14 06:19:34,212 [main] INFO  com.solvd.laba.ui.AbstractMenuEnum - Clock: Thu Apr 14 06:19:34 ART 2022
+2022-04-14 06:19:34,212 [main] INFO  com.solvd.laba.ui.AbstractMenuEnum - Giving all elements options
+2022-04-14 06:19:34,214 [main] INFO  com.solvd.laba.ui.AbstractMenuEnum - 0- Login.
+2022-04-14 06:19:34,215 [main] INFO  com.solvd.laba.ui.AbstractMenuEnum - 1- Exit.
+2022-04-14 06:19:36,052 [main] INFO  com.solvd.laba.ui.AbstractMenu - Chosen option: 5
+2022-04-14 06:19:36,052 [main] WARN  com.solvd.laba.ui.AbstractMenu - No natural number entered in Menu options
+2022-04-14 06:19:36,052 [main] INFO  com.solvd.laba.ui.AbstractMenuEnum - Clock: Thu Apr 14 06:19:34 ART 2022
+2022-04-14 06:19:36,052 [main] INFO  com.solvd.laba.ui.AbstractMenuEnum - Giving all elements options
+2022-04-14 06:19:36,052 [main] INFO  com.solvd.laba.ui.AbstractMenuEnum - 0- Login.
+2022-04-14 06:19:36,052 [main] INFO  com.solvd.laba.ui.AbstractMenuEnum - 1- Exit.

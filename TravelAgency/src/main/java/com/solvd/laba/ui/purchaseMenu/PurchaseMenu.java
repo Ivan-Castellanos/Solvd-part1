@@ -1,13 +1,14 @@
 package com.solvd.laba.ui.purchaseMenu;
 
 import com.solvd.laba.exception.NullTravel;
-import com.solvd.laba.ui.User;
-import com.solvd.laba.ui.loginMenu.AbstractMenuEnum;
+import com.solvd.laba.data.User;
+import com.solvd.laba.ui.AbstractMenuEnum;
 import com.solvd.laba.ui.mainMenu.MainMenu;
+import com.solvd.laba.ui.paymentMenu.PaymentMenu;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class PurchaseMenu extends AbstractMenuEnum<PurchaseMenuEnum>{
+public class PurchaseMenu extends AbstractMenuEnum<PurchaseMenuEnum> {
     private final static Logger LOGGER = LogManager.getLogger(MainMenu.class);
     private final User user;
 
@@ -18,7 +19,7 @@ public class PurchaseMenu extends AbstractMenuEnum<PurchaseMenuEnum>{
         manageCases(option);
     }
 
-    public void manageCases(PurchaseMenuEnum result){
+    public void manageCases(PurchaseMenuEnum result) {
         switch (result) {
             case SHOW_TRAVEL:
                 try {
@@ -27,7 +28,7 @@ public class PurchaseMenu extends AbstractMenuEnum<PurchaseMenuEnum>{
                     } else {
                         LOGGER.info(user.toString());
                     }
-                } catch (NullTravel e){
+                } catch (NullTravel e) {
                     LOGGER.error(e);
                 } finally {
                     new PurchaseMenu(user);
@@ -35,6 +36,7 @@ public class PurchaseMenu extends AbstractMenuEnum<PurchaseMenuEnum>{
                 }
             case EXECUTE_PAYMENT:
                 //TODO Payment menu
+                new PaymentMenu(user);
                 break;
             case GO_BACK:
                 new MainMenu(user);
