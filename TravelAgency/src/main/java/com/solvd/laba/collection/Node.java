@@ -1,6 +1,6 @@
 package com.solvd.laba.collection;
 
-public class Node <T> {
+public class Node<T> {
     T data; //Data in the current node
     Node<T> next; //Reference for the next node
 

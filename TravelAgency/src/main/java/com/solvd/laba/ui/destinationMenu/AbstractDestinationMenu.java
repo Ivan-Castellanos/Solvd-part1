@@ -7,12 +7,14 @@ import com.solvd.laba.ui.countrieslMenu.CountriesMenuEnum;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
 
 public abstract class AbstractDestinationMenu<T extends Enum<T>, L extends List<T>> extends AbstractMenu<T> {
     private final static Logger LOGGER = LogManager.getLogger(AbstractDestinationMenu.class);
 
-    public List<CountriesMenuEnum> remainingEnums(CountriesMenuEnum result){
+    public List<CountriesMenuEnum> remainingEnums(CountriesMenuEnum result) {
         List<CountriesMenuEnum> listOfCountries = new ArrayList<>();
         for (CountriesMenuEnum option : CountriesMenuEnum.class.getEnumConstants()) {
             if (option != result) {
@@ -24,7 +26,6 @@ public abstract class AbstractDestinationMenu<T extends Enum<T>, L extends List<
 
     public T changeOption(L options) {
         T newTag = manageOptions(options);
-        LOGGER.info("Option selected in changeOption: ");
         return newTag;
     }
 
@@ -33,7 +34,7 @@ public abstract class AbstractDestinationMenu<T extends Enum<T>, L extends List<
 
         LOGGER.info("Clock: " + stringDate.showDate(clock));
         LOGGER.info("Giving all elements options");
-        for (T country: options) {
+        for (T country : options) {
             LOGGER.info(options.indexOf(country) + "- " + country + ".");
         }
     }

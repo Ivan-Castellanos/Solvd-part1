@@ -1,20 +1,22 @@
 package com.solvd.laba;
 
-import com.solvd.laba.collection.CustomLinkedList;
-import com.solvd.laba.travel.Plane;
-import com.solvd.laba.ui.RandomGenerator;
-import com.solvd.laba.ui.userMenu.UserMenu;
+import com.solvd.laba.ui.loginMenu.LoginMenu;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
 
 public class Main {
     private final static Logger LOGGER = LogManager.getLogger(Main.class);
 
     public static void main(String[] args) {
-        UserMenu menu = new UserMenu();
+        LOGGER.info("Starting execution.");
+        //TODO override toString, hashCode and equals for all non abstract class
+        //TODO check unused classes
+        //TODO erase unused comments
+        //TODO implement multi person ticket
+        LoginMenu menu = new LoginMenu();
+        LOGGER.info("Ending execution.");
+
+
 //        RandomGenerator randomGenerator = new RandomGenerator();
 //        int planeQuantity = 10;
 //

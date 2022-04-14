@@ -1,6 +1,7 @@
 package com.solvd.laba.ui.destinationMenu;
 
 import com.solvd.laba.lambda.IShowDate;
+import com.solvd.laba.travel.Travel;
 import com.solvd.laba.ui.countrieslMenu.CountriesMenuEnum;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -12,12 +13,7 @@ import java.util.List;
 public class DestinationMenu extends AbstractDestinationMenu<CountriesMenuEnum, List<CountriesMenuEnum>> {
     private final static Logger LOGGER = LogManager.getLogger(DestinationMenu.class);
 
-    public DestinationMenu(CountriesMenuEnum startingCountry) {
-        LOGGER.info("Printing User Menu");
-        List<CountriesMenuEnum> remainings = remainingEnums(startingCountry);
-        CountriesMenuEnum destination = changeOption(remainings);
-        manageCases(startingCountry, destination);
-
+    public DestinationMenu() {
     }
 
     @Override
@@ -30,9 +26,14 @@ public class DestinationMenu extends AbstractDestinationMenu<CountriesMenuEnum, 
                 LOGGER.info(option.ordinal() + "- " + option + "."));
     }
 
-    public void manageCases(CountriesMenuEnum startingCountry, CountriesMenuEnum destination) {
-        LOGGER.info("We travel from " + startingCountry.toString() + " to " + destination.toString());
+    public Travel initTravel(CountriesMenuEnum startingCountry, CountriesMenuEnum destination) {
+        return new Travel(startingCountry, destination);
     }
 
-
+    public CountriesMenuEnum initDestinationMenu(CountriesMenuEnum startingCountry) {
+        LOGGER.info("Printing User Menu");
+        List<CountriesMenuEnum> remainings = remainingEnums(startingCountry);
+        CountriesMenuEnum destination = changeOption(remainings);
+        return destination;
+    }
 }

@@ -61,5 +61,4 @@ public abstract class Vehicle {
     public void rechargeFuel() {
         this.setFuel(random.nextInt(100));
     }
-
 }

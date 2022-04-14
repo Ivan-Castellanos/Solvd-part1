@@ -1,13 +1,13 @@
-package com.solvd.laba.ui.userMenu;
+package com.solvd.laba.ui;
 
-public enum UserMenuEnum {
-    LOGIN("Login"),
+public enum BasicMenuEnum implements IMenuEnum {
+    PRINT_OPTIONS("Print Options"),
     //CREATE_USER("Create a User"),
-    EXIT("Exit");
+    EXIT("Go Back");
 
     private final String value;
 
-    UserMenuEnum(String value) {
+    BasicMenuEnum(String value) {
         this.value = value;
     }
 

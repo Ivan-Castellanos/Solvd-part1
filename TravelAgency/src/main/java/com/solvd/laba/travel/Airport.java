@@ -2,16 +2,12 @@ package com.solvd.laba.travel;
 
 import com.solvd.laba.ui.RandomGenerator;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-
 public class Airport extends Location {
+    RandomGenerator randomGenerator = new RandomGenerator();
+    int planeQuantity = 10;
+
     public Airport(String name, String tags) {
         super(name, tags);
     }
-
-    RandomGenerator randomGenerator = new RandomGenerator();
-    int planeQuantity = 10;
 
 }

@@ -1,36 +1,60 @@
 package com.solvd.laba.travel;
 
-import com.solvd.laba.payment.Currency;
+import com.solvd.laba.ui.countrieslMenu.CountriesMenuEnum;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class Travel implements ITravel {
-    private static String[] COUNTRIES = {"ARGENTINA", "USA", "BELARUS"};
-    private static String[] POSIBLE_DATES = {"01/04/2022", "08/04/2022", "15/04/2022"};
-    Currency currency = new Currency();
-    private int value;
-    private int[] PRICES = {1500, 2400, 5000};
+    private final static Logger LOGGER = LogManager.getLogger(Travel.class);
+    private static final float PRICE = 0.25f;
+    private static final int AVERAGEVELOCITY = 900;
+    private CountriesMenuEnum from;
+    private CountriesMenuEnum destination;
+    private int travelTime;
+    private int distance;
     private float price;
-    private float businessClassExtra = 2000f;
 
-    public static String[] getCOUNTRIES() {
-        return COUNTRIES;
+    public Travel(CountriesMenuEnum from, CountriesMenuEnum destination) {
+        this.from = from;
+        this.destination = destination;
+        calculateDistance(from, destination);
+        calculatePrice(distance);
+        calculateTime(distance);
     }
 
-    public static void setCOUNTRIES(String[] COUNTRIES) {
-        Travel.COUNTRIES = COUNTRIES;
+    public Travel() {
     }
 
-    public static void printDates() {
-        for (int i = 0; i < POSIBLE_DATES.length; i++) {
-            System.out.println((i + 1) + ") " + POSIBLE_DATES[i]);
-        }
+    public CountriesMenuEnum getFrom() {
+        return from;
     }
 
-    public float getBusinessClassExtra() {
-        return businessClassExtra;
+    public void setFrom(CountriesMenuEnum from) {
+        this.from = from;
     }
 
-    public void setBusinessClassExtra(int businessClassExtra) {
-        this.businessClassExtra = businessClassExtra;
+    public CountriesMenuEnum getDestination() {
+        return destination;
+    }
+
+    public void setDestination(CountriesMenuEnum destination) {
+        this.destination = destination;
+    }
+
+    public int getTravelTime() {
+        return travelTime;
+    }
+
+    public void setTravelTime(int travelTime) {
+        this.travelTime = travelTime;
+    }
+
+    public int getDistance() {
+        return distance;
+    }
+
+    public void setDistance(int distance) {
+        this.distance = distance;
     }
 
     public float getPrice() {
@@ -41,25 +65,36 @@ public class Travel implements ITravel {
         this.price = price;
     }
 
-    public int argToUSA() {
-        return value = 1500;
-    }
-
-    public int argToBelarus() {
-        return value = 2400;
-    }
-
-    public int usaToBelarus() {
-        return value = 5000;
-    }
-
-    public float pricing(String origin, String destination) {
-        if (origin == COUNTRIES[0] && destination == COUNTRIES[1] || origin == COUNTRIES[1] && destination == COUNTRIES[0]) {
-            return argToUSA();
-        } else if (origin == COUNTRIES[0] && destination == COUNTRIES[2] || origin == COUNTRIES[2] && destination == COUNTRIES[0]) {
-            return argToBelarus();
-        } else {
-            return usaToBelarus();
+    @Override
+    public void calculateDistance(CountriesMenuEnum origin, CountriesMenuEnum destination) {
+        //TODO avoid hardcoding
+        switch (origin) {
+            case ARGENTINA -> distance = destination == CountriesMenuEnum.USA ? 7112 : 12822;
+            case USA -> distance = destination == CountriesMenuEnum.ARGENTINA ? 7112 : 8788;
+            case BELARUS -> distance = destination == CountriesMenuEnum.ARGENTINA ? 12822 : 8788;
         }
+        LOGGER.info("The distance is: " + distance + " km.");
+    }
+
+    @Override
+    public void calculatePrice(int distance) {
+        price = distance * PRICE;
+        LOGGER.info("The price is: $" + price + "0.");
+    }
+
+    @Override
+    public void calculateTime(int distance) {
+        travelTime = distance / AVERAGEVELOCITY;
+        LOGGER.info("The travel time is: " + travelTime + " hs.");
+    }
+
+    @Override
+    public String toString() {
+        return "\nYou will depart from " + from +
+                " to " + destination +
+                ",the travel time will be of: " + travelTime +
+                "hs. The distance will be of: " + distance +
+                "km and you have to pay: $" + price +
+                '.';
     }
 }
