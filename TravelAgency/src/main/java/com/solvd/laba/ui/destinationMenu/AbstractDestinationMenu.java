@@ -1,8 +1,8 @@
 package com.solvd.laba.ui.destinationMenu;
 
+import com.solvd.laba.data.RandomGeneratorforEnum;
 import com.solvd.laba.lambda.IShowDate;
 import com.solvd.laba.ui.AbstractMenu;
-import com.solvd.laba.data.RandomGenerator;
 import com.solvd.laba.ui.countriesMenu.CountriesMenuEnum;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -44,8 +44,8 @@ public abstract class AbstractDestinationMenu<T extends Enum<T>, L extends List<
         LOGGER.info("Choosing Menu ui options");
         printRemainingElements(options);
 
-        RandomGenerator<T> randomGenerator = new RandomGenerator<>();
-        String chosenOption = String.valueOf(randomGenerator.randomRandIntEnum(options));
+        RandomGeneratorforEnum<T> randomGeneratorforEnum = new RandomGeneratorforEnum<>();
+        String chosenOption = String.valueOf(randomGeneratorforEnum.randomRandIntEnum(options));
 
         LOGGER.info("Chosen option: " + Integer.parseInt(chosenOption));
 

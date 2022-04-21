@@ -1,9 +1,9 @@
 package com.solvd.laba.ui.countriesMenu;
 
-import com.solvd.laba.travel.Travel;
 import com.solvd.laba.data.User;
-import com.solvd.laba.ui.destinationMenu.DestinationMenu;
+import com.solvd.laba.travel.Travel;
 import com.solvd.laba.ui.AbstractMenuEnum;
+import com.solvd.laba.ui.destinationMenu.DestinationMenu;
 import com.solvd.laba.ui.mainMenu.MainMenu;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

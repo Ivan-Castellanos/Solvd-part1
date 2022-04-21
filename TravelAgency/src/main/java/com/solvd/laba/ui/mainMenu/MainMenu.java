@@ -1,8 +1,8 @@
 package com.solvd.laba.ui.mainMenu;
 
 import com.solvd.laba.data.User;
-import com.solvd.laba.ui.countriesMenu.CountriesMenu;
 import com.solvd.laba.ui.AbstractMenuEnum;
+import com.solvd.laba.ui.countriesMenu.CountriesMenu;
 import com.solvd.laba.ui.purchaseMenu.PurchaseMenu;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

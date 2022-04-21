@@ -1,6 +1,8 @@
 package com.solvd.laba.ui.mainMenu;
 
-public enum MainMenuEnum {
+import com.solvd.laba.ui.IMenuEnum;
+
+public enum MainMenuEnum implements IMenuEnum {
     CHECK_FLIGHTS("Check flights."),
     PURCHASE("Purchase flight."),
     EXIT("Exit");

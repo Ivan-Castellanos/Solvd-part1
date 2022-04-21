@@ -1,7 +1,7 @@
 package com.solvd.laba.ui.purchaseMenu;
 
-import com.solvd.laba.exception.NullTravel;
 import com.solvd.laba.data.User;
+import com.solvd.laba.exception.NullTravel;
 import com.solvd.laba.ui.AbstractMenuEnum;
 import com.solvd.laba.ui.mainMenu.MainMenu;
 import com.solvd.laba.ui.paymentMenu.PaymentMenu;

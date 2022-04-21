@@ -1,6 +1,8 @@
 package com.solvd.laba.ui.paymentMenu;
 
 import com.solvd.laba.data.User;
+import com.solvd.laba.payment.Credit;
+import com.solvd.laba.payment.Debit;
 import com.solvd.laba.ui.AbstractMenuEnum;
 import com.solvd.laba.ui.purchaseMenu.PurchaseMenu;
 import org.apache.logging.log4j.LogManager;
@@ -21,11 +23,16 @@ public class PaymentMenu extends AbstractMenuEnum<PaymentMenuEnum> {
         switch (result) {
             case DEBIT:
                 //TODO implement debit payment
-                //new Debit();
+                Debit newDebit = new Debit();
+                LOGGER.info("Debit card Number " + newDebit.getCardNumber());
+                LOGGER.info("Debit card security Number " + newDebit.getSecurityNumber());
                 break;
             case CREDIT:
                 //TODO implement credit payment
-                //new Credit();
+                Credit newCredit = new Credit();
+                LOGGER.info("Credit card Number: " + newCredit.getCardNumber());
+                LOGGER.info("Credit card security Number: " + newCredit.getSecurityNumber());
+                new CreditOptionMenu(user);
                 break;
             case GO_BACK:
                 new PurchaseMenu(user);

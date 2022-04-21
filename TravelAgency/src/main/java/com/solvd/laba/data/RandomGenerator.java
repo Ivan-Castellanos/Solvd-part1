@@ -1,17 +1,24 @@
 package com.solvd.laba.data;
 
-import java.util.List;
 import java.util.Random;
 
-public class RandomGenerator<T extends Enum<T>> {
-    Random random = new Random();
+public class RandomGenerator {
+    static Random random = new Random();
 
-    //randomGenerator.randomRandIntEnum(options)
-    public int randomRandIntEnum(Class<T> enum_list) {
-        return random.nextInt(0, enum_list.getEnumConstants().length);
+    public static int generateRandomNumber(int start, int bound) {
+        return random.nextInt(start, bound);
     }
 
-    public int randomRandIntEnum(List<T> enum_list) {
-        return random.nextInt(0, enum_list.size());
+    public static int generateRandomNumber(int bound) {
+        return random.nextInt(bound);
+    }
+
+    public static int[] generateCard() {
+        int[] card = new int[4];
+        for (int i = 0; i < 4; i++) {
+            int number = random.nextInt(999, 9999);
+            card[i] = number;
+        }
+        return card;
     }
 }

@@ -1,6 +1,8 @@
 package com.solvd.laba.ui.purchaseMenu;
 
-public enum PurchaseMenuEnum {
+import com.solvd.laba.ui.IMenuEnum;
+
+public enum PurchaseMenuEnum implements IMenuEnum {
     SHOW_TRAVEL("Show selected travel."),
     EXECUTE_PAYMENT("Proceed to payment."),
     GO_BACK("GO back to Main Menu."),

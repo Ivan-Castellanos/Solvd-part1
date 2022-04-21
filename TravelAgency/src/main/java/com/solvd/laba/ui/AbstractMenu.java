@@ -1,6 +1,6 @@
 package com.solvd.laba.ui;
 
-import com.solvd.laba.data.RandomGenerator;
+import com.solvd.laba.data.RandomGeneratorforEnum;
 import com.solvd.laba.lambda.IRegexCompare;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -33,9 +33,9 @@ public abstract class AbstractMenu<T extends Enum<T>> implements IUi<T> {
         printAllElements(options);
 
         //Unused temporary in order to select personally the execution process.
-        RandomGenerator<T> randomGenerator = new RandomGenerator<>();
+        RandomGeneratorforEnum<T> randomGeneratorforEnum = new RandomGeneratorforEnum<>();
         Scanner sc = new Scanner(System.in);
-        String chosenOption = String.valueOf(sc.nextInt()); //change here with randomGenerator.randomRandIntEnum(options) to randomize execution.
+        String chosenOption = String.valueOf(sc.nextInt()); //change here with randomGeneratorforEnum.randomRandIntEnum(options) to randomize execution.
 
         LOGGER.info("Chosen option: " + Integer.parseInt(chosenOption));
 
